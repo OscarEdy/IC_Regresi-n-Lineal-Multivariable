@@ -1,1 +1,1 @@
-# IC_Regresi-n-Lineal-Multivariable
+# IC_Regresion Lineal Multivariable
